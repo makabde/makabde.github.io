@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>makabde.me</title>
-    <description>Product Designer (UX / UI / Research) &amp; Front-End Developer - Switzerland &amp; Remote</description>
+    <description>Personal website of freelance product designer slash coder Mak Abdennabi - Switzerland &amp; Remote</description>
     <link>http://makabde.me/</link>
     <atom:link href="http://makabde.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Oct 2016 21:29:16 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Oct 2016 21:29:16 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Oct 2016 19:51:43 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Oct 2016 19:51:43 +0000</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
   </channel>
